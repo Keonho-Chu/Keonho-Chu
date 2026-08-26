@@ -17,4 +17,4 @@
 - Implicit discovery of local SGLang servers — [#4931](https://github.com/Yeachan-Heo/gajae-code/pull/4931) (merged)
 - Allow unauthenticated vLLM runtime discovery — [#4895](https://github.com/Yeachan-Heo/gajae-code/pull/4895) (merged)
 
-![Notable contributions](./metrics.notable.svg)
+![Notable contributions](./metrics.notable.svg?v=2)
