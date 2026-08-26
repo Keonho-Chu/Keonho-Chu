@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Infinite_monkey_theorem">
+    <img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=14&pause=4000&center=true&vCenter=true&width=830&height=40&color=8b949e&duration=7000&lines=A+monkey+hitting+keys+at+random+on+a+typewriter+for+an+infinite+amount+of+time+will+almost+certainly+type+any+given+text." alt="A monkey hitting keys at random on a typewriter for an infinite amount of time will almost certainly type any given text.">
+  </a>
+  <br>
+  <sub>— Émile Borel, 1913</sub>
+</p>
+
 [![Tokscale Stats](https://tokscale.ai/api/embed/Keonho-Chu/svg?view=3d&sort=cost)](https://tokscale.ai/u/Keonho-Chu)
 
 ## 🔧 Open Source Contributions
