@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 880 80" width="880" height="80">
+  <!-- The infinite monkey theorem, typed. Line 2 starts a beat after line 1
+       ends (a carriage return, not a pause); the finished sentence holds,
+       then the cycle repeats. Text renders along a growing path, so glyphs
+       appear one by one — monospace keeps the reveal steady. -->
+  <defs>
+    <path id="line1">
+      <animate id="t1" attributeName="d" begin="0s;t2.end" dur="12s" fill="freeze"
+        calcMode="linear" keyTimes="0;0.3333;1"
+        values="m13,32 h0 ; m13,32 h854 ; m13,32 h854" />
+    </path>
+    <path id="line2">
+      <animate id="t2" attributeName="d" begin="0s;t2.end" dur="12s" fill="freeze"
+        calcMode="linear" keyTimes="0;0.35;0.55;1"
+        values="m213,64 h0 ; m213,64 h0 ; m213,64 h454 ; m213,64 h454" />
+    </path>
+  </defs>
+  <text font-family="'Courier New', Courier, monospace" font-size="18" fill="#8b949e">
+    <textPath xlink:href="#line1">A monkey hitting keys at random on a typewriter for an infinite amount of time</textPath>
+  </text>
+  <text font-family="'Courier New', Courier, monospace" font-size="18" fill="#8b949e">
+    <textPath xlink:href="#line2">will almost certainly type any given text.</textPath>
+  </text>
+</svg>
