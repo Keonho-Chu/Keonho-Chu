@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Infinite_monkey_theorem">
-    <img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=18&pause=6000&center=true&vCenter=true&width=880&height=80&color=8b949e&duration=6000&multiline=true&lines=A+monkey+hitting+keys+at+random+on+a+typewriter+for+an+infinite+amount+of+time;will+almost+certainly+type+any+given+text." alt="A monkey hitting keys at random on a typewriter for an infinite amount of time will almost certainly type any given text.">
+    <img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=18&pause=2000&center=true&vCenter=true&width=880&height=80&color=8b949e&duration=4500&multiline=true&lines=A+monkey+hitting+keys+at+random+on+a+typewriter+for+an+infinite+amount+of+time;will+almost+certainly+type+any+given+text." alt="A monkey hitting keys at random on a typewriter for an infinite amount of time will almost certainly type any given text.">
   </a>
   <br>
   <sub>— Émile Borel, 1913</sub>
