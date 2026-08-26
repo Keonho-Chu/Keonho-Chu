@@ -17,4 +17,7 @@
 - Implicit discovery of local SGLang servers — [#4931](https://github.com/Yeachan-Heo/gajae-code/pull/4931) (merged)
 - Allow unauthenticated vLLM runtime discovery — [#4895](https://github.com/Yeachan-Heo/gajae-code/pull/4895) (merged)
 
+**[GraphRAG](https://github.com/microsoft/graphrag)** ★35.7k — Microsoft's graph-based RAG system
+- Caught a type mismatch in the `DynamicCommunitySelection` children lookup and proposed the fix — [#2124](https://github.com/microsoft/graphrag/pull/2124), resolved upstream in [#2159](https://github.com/microsoft/graphrag/pull/2159)
+
 ![Notable contributions](./metrics.notable.svg?v=2)
