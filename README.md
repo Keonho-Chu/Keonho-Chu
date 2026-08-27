@@ -24,6 +24,8 @@
 - Implicit discovery of local SGLang servers — [#4931](https://github.com/Yeachan-Heo/gajae-code/pull/4931) (merged)
 - Allow unauthenticated vLLM runtime discovery — [#4895](https://github.com/Yeachan-Heo/gajae-code/pull/4895) (merged)
 - Stop persisting the vLLM no-auth sentinel — [#4980](https://github.com/Yeachan-Heo/gajae-code/pull/4980) (merged)
+- Match decomposed (NFD) Korean file names in path autocomplete — [#4997](https://github.com/Yeachan-Heo/gajae-code/pull/4997) (merged)
+- Hangul chosung matching for fuzzy file search — [#5008](https://github.com/Yeachan-Heo/gajae-code/pull/5008) (in review)
 
 **[GraphRAG](https://github.com/microsoft/graphrag)** ★35.7k — Microsoft's graph-based RAG system
 - Caught a type mismatch in the `DynamicCommunitySelection` children lookup and proposed the fix — [#2124](https://github.com/microsoft/graphrag/pull/2124), resolved upstream in [#2159](https://github.com/microsoft/graphrag/pull/2159)
