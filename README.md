@@ -10,7 +10,7 @@
 
 ## 🔧 Open Source Contributions
 
-**[CozyClay](https://github.com/NomaDamas/CozyClay)** ★341 — open-source previs studio in the browser (Three.js / R3F)
+**[CozyClay](https://github.com/NomaDamas/CozyClay)** ★471 — open-source previs studio in the browser (Three.js / R3F)
 - Failure containment: React error boundary, WebGL context-loss recovery, guarded storage writes — [#64](https://github.com/NomaDamas/CozyClay/pull/64) (merged)
 - Aligned the controls table and ARDY docs with the code — [#54](https://github.com/NomaDamas/CozyClay/pull/54) (merged)
 - Found & reported the File System Access re-auth bug and the MCP CI coverage gap — [#51](https://github.com/NomaDamas/CozyClay/issues/51), [#52](https://github.com/NomaDamas/CozyClay/issues/52) (both fixed upstream within a day)
