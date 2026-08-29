@@ -17,6 +17,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Keonho-Chu
+          debug: yes
           filename: metrics.notable.svg
           base: ""
           plugin_notable: yes
